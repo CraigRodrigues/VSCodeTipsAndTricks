@@ -24,3 +24,4 @@
 - Paste and Indent
 - ES6 Code Snippets
 - Code Spell Checker
+- Settings Sync
