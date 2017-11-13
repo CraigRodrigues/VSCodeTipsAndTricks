@@ -13,6 +13,8 @@
 - Expand selection `SHIFT + CONTROL + COMMAND + ←/→`
 - Go back to last cursor position: `COMMAND -`
 - Peek definition through the context menu or `SHIFT + COMMAND + F12`
+- Find all reference with the context menu
+- Use `F2` to rename a symbol
 
 
 #### Useful Plugins
