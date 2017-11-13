@@ -22,3 +22,4 @@
 - Git Blame
 - Git Tree Compare
 - Paste and Indent
+- ES6 Code Snippets
