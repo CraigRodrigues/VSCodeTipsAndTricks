@@ -16,6 +16,8 @@
 - Peek definition through the context menu or `SHIFT + COMMAND + F12`
 - Find all reference with the context menu
 - Use `F2` to rename a symbol
+- `COMMAND + F` to populate search within a file
+- `COMMAND + SHIFT + F` to populate the larger search
 
 
 #### Useful Extensions
