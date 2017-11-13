@@ -7,3 +7,13 @@
 - To delete a row `SHIFT + COMMAND + K`
 - To copy a row up or down `SHIFT + OPTION + ↑/↓`
 - `COMMAND + Click` a function to go to it inside your file
+- In the Command Palette putting the @ symbol will allow you to search for functions
+- In the Command Palette putting the : symbol will allow you to jump to a certain line number
+- Multi-cursor select is `COMMAND + OPTION + ↑/↓`
+- Expand selection `SHIFT + CONTROL + COMMAND + ←/→`
+
+#### Useful Plugins
+- ESLint
+- Git Blame
+- Git Tree Compare
+- Paste and Indent
