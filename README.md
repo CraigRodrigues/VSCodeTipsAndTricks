@@ -17,7 +17,7 @@
 - Use `F2` to rename a symbol
 
 
-#### Useful Plugins
+#### Useful Extensions
 - ESLint
 - Git Blame
 - Git Tree Compare
