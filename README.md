@@ -11,6 +11,9 @@
 - In the Command Palette putting the : symbol will allow you to jump to a certain line number
 - Multi-cursor select is `COMMAND + OPTION + ↑/↓`
 - Expand selection `SHIFT + CONTROL + COMMAND + ←/→`
+- Go back to last cursor position: `COMMAND -`
+- Peek definition through the context menu or `SHIFT + COMMAND + F12`
+
 
 #### Useful Plugins
 - ESLint
